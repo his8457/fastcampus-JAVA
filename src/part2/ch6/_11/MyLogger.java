@@ -10,9 +10,9 @@ public class MyLogger {
 	Logger logger = Logger.getLogger("mylogger");
 	private static MyLogger instance = new MyLogger();
 	
-	public static final String errorLog = "log.txt";
-	public static final String warningLog = "warning.txt";
-	public static final String fineLog = "fine.txt";
+	public static final String errorLog = "part2/ch6/log.txt";
+	public static final String warningLog = "part2/ch6/warning.txt";
+	public static final String fineLog = "part2/ch6/fine.txt";
 	
 	private FileHandler logFile = null;
 	private FileHandler warningFile = null;

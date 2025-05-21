@@ -1,0 +1,8 @@
+5월 21, 2025 12:00:43 오전 part2.ch6._11.MyLogger log
+WARNING: Log 출력
+5월 21, 2025 12:00:43 오전 part2.ch6._11.MyLogger log
+SEVERE: Log 출력
+5월 21, 2025 12:01:05 오전 part2.ch6._11.MyLogger log
+WARNING: Log 출력
+5월 21, 2025 12:01:05 오전 part2.ch6._11.MyLogger log
+SEVERE: Log 출력

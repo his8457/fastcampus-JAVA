@@ -1,7 +1,4 @@
-package etc;
-
-import etc.enumeration.MyEnum;
-import etc.enumeration.Week;
+package etc.enumeration;
 
 public class EnumTest {
 	public static void main(String[] args) {
